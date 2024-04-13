@@ -18,5 +18,4 @@ def generate_slupek(operation):
    print((operator+num_2.rjust(length-len(operator))))
    print('-' * length)
    print(str(result).rjust(length))
-generate_slupek("231 * 81") #czy może działać tylko z spacjami?
-generate_slupek("10 / 8")
+generate_slupek("81 * 92480984203942") #czy może działać tylko z spacjami?
